@@ -1,0 +1,13 @@
+{
+  "name": "wppconnect-railway",
+  "version": "1.0.0",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "dependencies": {
+    "@wppconnect-team/wppconnect": "latest",
+    "express": "^4.18.2",
+    "cors": "^2.8.5"
+  }
+}
